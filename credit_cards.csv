@@ -1,0 +1,6 @@
+card_id,bank_name,card_name,card_type,cashback_rate,discount_offers
+1,SCB,SCB Platinum,Platinum,5,10% at partners
+2,KBank,KBank Gold,Gold,3,5% at selected restaurants
+3,Krungsri,Krungsri Standard,Standard,2,7% cashback
+4,SCB,SCB Titanium,Titanium,4,12% dining discount
+5,KBank,KBank Silver,Silver,3,5% off

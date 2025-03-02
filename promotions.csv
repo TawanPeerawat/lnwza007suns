@@ -1,0 +1,6 @@
+promotion_id,bank_name,restaurant_id,card_id,discount_percentage,special_offer,valid_until
+1,SCB,1,1,10,Buy 1 Get 1,2025-12-31
+2,KBank,2,2,15,15% Off,2025-12-31
+3,Krungsri,3,3,10,10% Cashback,2025-12-31
+4,SCB,4,4,12,Free Drink,2025-12-31
+5,KBank,5,5,5,5% Discount,2025-12-31

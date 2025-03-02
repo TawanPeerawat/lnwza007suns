@@ -1,0 +1,6 @@
+restaurant_id,name,cuisine_type,average_price,partner_banks,special_promotions
+1,Thai House,Thai,500,"['SCB', 'KBank']",Buy 1 Get 1 Free (SCB)
+2,Sushi Master,Japanese,1200,"['KBank', 'Krungsri']",15% Off (KBank)
+3,Pasta Corner,Italian,800,"['Krungsri', 'SCB']",10% Cashback (Krungsri)
+4,Korean BBQ,Korean,1000,"['SCB', 'KBank']",Free Drink (SCB)
+5,Dim Sum Palace,Chinese,700,"['KBank', 'SCB']",5% Discount (KBank)
